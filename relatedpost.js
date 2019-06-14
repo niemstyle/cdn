@@ -9,3 +9,4 @@ h+='</div>',g.html(h);}})}
 $("#related-posts").each(function(){var g=$(this),e=g.text(),r=6;relatedPost(g,e,r);});});
 //]]>
 </script>
+</b:if>
